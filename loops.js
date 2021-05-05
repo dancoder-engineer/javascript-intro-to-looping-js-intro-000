@@ -6,3 +6,7 @@ function forLoop(array) {
   
   
 }
+
+var a = []
+forLoop(a)
+console.log(a)
