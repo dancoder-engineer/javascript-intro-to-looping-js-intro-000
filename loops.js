@@ -4,7 +4,7 @@ function forLoop(array) {
           else  { array[array.length]=`I am ${i} strange loops.` }
   }
   
-  
+  return array
 }
 
 var a = []
