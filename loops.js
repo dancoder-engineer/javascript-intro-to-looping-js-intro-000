@@ -15,3 +15,5 @@ function whileLoop(n) {
   }
   
 }
+
+whileLoop(5)
