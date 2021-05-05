@@ -7,6 +7,8 @@ function forLoop(array) {
   return array
 }
 
-var a = []
-forLoop(a)
-console.log(a)
+
+function whileLoop(n) {
+  while (n > 0) { console.log(n) }
+  
+}
