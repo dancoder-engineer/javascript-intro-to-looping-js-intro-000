@@ -17,4 +17,9 @@ function whileLoop(n) {
 }
 
 
-function doWhileLoop(num) { }
+function doWhileLoop(num) { 
+  
+  do {
+    
+  }while (incrementVariable() < num)
+}
