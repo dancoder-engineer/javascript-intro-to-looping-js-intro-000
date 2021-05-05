@@ -1,7 +1,7 @@
 function forLoop(array) {
-  for(i = array; i < 26; i++) {
-         if (i===1) {  console.log(`I am ${n} strange loop`) }
-          else  { console.log(`I am ${i} strange loops.`) }
+  for(let i = 0; i < 25; i++) {
+         if (i===1) { array[array.length]=`I am ${n} strange loop` }
+          else  { array[array.length]=`I am ${i} strange loops.` }
   }
   
   
