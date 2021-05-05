@@ -30,4 +30,4 @@ function doWhileLoop(num) {
 }
 
 
-doWhileLoop(5)
+doWhileLoop(10)
